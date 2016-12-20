@@ -1,4 +1,4 @@
-# Inter-industry_relations_table_employment_Table_13department
+# inter-industry_relations_table_employment_table_13department
 　【和歌山県　産業連関表です。】
 ◆産業連関表とは
 １年間に県内において行われた様々な産業間の取引を一つの表にまとめたもので、
